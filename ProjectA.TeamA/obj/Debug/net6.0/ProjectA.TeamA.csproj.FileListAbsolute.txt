@@ -1,0 +1,11 @@
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.deps.json
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.dll
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\bin\Debug\net6.0\ProjectA.TeamA.pdb
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfoInputs.cache
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.AssemblyInfo.cs
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.csproj.CoreCompileInputs.cache
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.dll
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\refint\ProjectA.TeamA.dll
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.pdb
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ref\ProjectA.TeamA.dll

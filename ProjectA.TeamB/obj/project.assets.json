@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
+      "projectName": "ProjectA.TeamB",
+      "projectPath": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ProjectA.TeamB\\ProjectA.TeamB.csproj",
       "packagesPath": "C:\\Users\\hassan.raza\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\hassan.raza\\Documents\\GitHub\\C-App1\\ProjectA.TeamB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hassan.raza\\AppData\\Roaming\\NuGet\\NuGet.Config",
