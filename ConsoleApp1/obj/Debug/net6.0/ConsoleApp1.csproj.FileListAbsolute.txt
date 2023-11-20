@@ -12,3 +12,4 @@ C:\Users\hassan.raza\Documents\GitHub\C-App1\ConsoleApp1\obj\Debug\net6.0\refint
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json

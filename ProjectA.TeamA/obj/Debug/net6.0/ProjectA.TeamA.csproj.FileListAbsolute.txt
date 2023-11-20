@@ -9,3 +9,4 @@ C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\Pro
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\refint\ProjectA.TeamA.dll
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.pdb
 C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ref\ProjectA.TeamA.dll
+C:\Users\hassan.raza\Documents\GitHub\C-App1\ProjectA.TeamA\obj\Debug\net6.0\ProjectA.TeamA.sourcelink.json
